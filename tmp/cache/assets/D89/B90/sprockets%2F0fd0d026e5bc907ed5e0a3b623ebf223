@@ -1,0 +1,30 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1353250685.534996:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%9c41a971ad80754e47e524638cee983dI"logical_path;
+FI"movies.css;
+FI"pathname;
+FI",$root/app/assets/stylesheets/movies.css;
+FI"content_type;
+FI"text/css;
+FI"
+mtime;
+FI"2012-11-18T18:47:23+04:00;
+FI"	body;
+FI":#login {
+    float: right;
+    margin-right: 20px;
+}
+;
+FI"asset_paths;
+F[I",$root/app/assets/stylesheets/movies.css;
+FI"dependency_paths;
+F[{I"	path;
+FI",$root/app/assets/stylesheets/movies.css;
+FI"
+mtime;
+FIu:	TimeN*€ÐPw½
+:@_zoneI"MSK;
+T:nano_numi%:nano_deni:submicro")0:offseti@8I"hexdigest;
+F"%2aa05cb9864eed39212d8f00abbbaf05I"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5

@@ -1,0 +1,9 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1353250685.5910068:@value{	I"length:EFi:I"digest;
+F"%a846a5ceeff433332939cdde5cb0d28dI"source;
+FI":#login {
+    float: right;
+    margin-right: 20px;
+}
+;
+FI"_version;
+F"%9c41a971ad80754e47e524638cee983d
